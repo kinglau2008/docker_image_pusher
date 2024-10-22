@@ -1,6 +1,7 @@
 elasticsearch:8.15.1
 kibana:8.15.1
 zmister/mrdoc:v8
+docmost/docmost:latest
 #支持私库
 #
 # elasticsearch:8.15.1
