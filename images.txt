@@ -2,6 +2,7 @@ elasticsearch:8.15.1
 kibana:8.15.1
 zmister/mrdoc:v8
 docmost/docmost:latest
+redis:7.4.1-alpine
 #支持私库
 #
 # elasticsearch:8.15.1
