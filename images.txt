@@ -4,6 +4,7 @@ zmister/mrdoc:v8
 docmost/docmost:latest
 redis:7.4.1-alpine
 kibana:7.17.25
+elasticsearch:7.17.25
 #支持私库
 #
 # elasticsearch:8.15.1
