@@ -7,6 +7,14 @@ kibana:7.17.25
 elasticsearch:7.17.25
 apache/rocketmq:5.3.1
 apacherocketmq/rocketmq-dashboard:1.0.0
+dify-api:0.13.2
+dify-web:0.13.2
+langgenius/dify-sandbox:0.2.10
+certbot/certbot
+pingcap/tidb:v8.4.0
+semitechnologies/weaviate:1.19.0
+langgenius/qdrant:v1.7.3
+
 #支持私库
 # elasticsearch:8.15.1
 #支持指定架构
