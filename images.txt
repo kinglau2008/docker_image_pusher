@@ -10,7 +10,7 @@ apacherocketmq/rocketmq-dashboard:1.0.0
 dify-api:0.13.2
 dify-web:0.13.2
 langgenius/dify-sandbox:0.2.10
-certbot/certbot
+# certbot/certbot
 pingcap/tidb:v8.4.0
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
