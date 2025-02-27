@@ -15,6 +15,7 @@ certbot/certbot
 pingcap/tidb:v8.4.0
 semitechnologies/weaviate:1.19.0
 langgenius/qdrant:v1.7.3
+node:20-alpine
 #支持私库
 # elasticsearch:8.15.1
 #支持指定架构
