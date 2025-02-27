@@ -17,6 +17,7 @@ apacherocketmq/rocketmq-dashboard:1.0.0
 #langgenius/qdrant:v1.7.3
 node:20-alpine
 mysql:5.7.39
+eosphorosai/dbgpt:latest
 #支持私库
 # elasticsearch:8.15.1
 #支持指定架构
