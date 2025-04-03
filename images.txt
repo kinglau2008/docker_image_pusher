@@ -19,7 +19,7 @@ node:20-alpine
 mysql:5.7.39
 eosphorosai/dbgpt:latest
 lanzhihong/stock-scanner:latest
-
+apache/answer:1.4.5
 
 #支持私库
 # elasticsearch:8.15.1
