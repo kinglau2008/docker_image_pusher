@@ -20,6 +20,7 @@ mysql:5.7.39
 eosphorosai/dbgpt:latest
 lanzhihong/stock-scanner:latest
 apache/answer:1.4.5
+docker.n8n.io/n8nio/n8n:latest
 
 #支持私库
 # elasticsearch:8.15.1
