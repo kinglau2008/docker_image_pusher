@@ -22,7 +22,7 @@ lanzhihong/stock-scanner:latest
 apache/answer:1.4.5
 docker.n8n.io/n8nio/n8n:latest
 moby/buildkit:buildx-stable-1
-redis:8.0.3
+redis:7.4.5
 
 #支持私库
 # elasticsearch:8.15.1
