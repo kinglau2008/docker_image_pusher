@@ -2,7 +2,7 @@ elasticsearch:8.15.1
 kibana:8.15.1
 zmister/mrdoc:v8
 docmost/docmost:latest
-redis:7.4.1-alpine
+# redis:7.4.1-alpine
 kibana:7.17.25
 elasticsearch:7.17.25
 apache/rocketmq:5.3.1
@@ -22,6 +22,7 @@ lanzhihong/stock-scanner:latest
 apache/answer:1.4.5
 docker.n8n.io/n8nio/n8n:latest
 moby/buildkit:buildx-stable-1
+redis:8.0.3
 
 #支持私库
 # elasticsearch:8.15.1
