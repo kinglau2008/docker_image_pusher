@@ -24,6 +24,7 @@ docker.n8n.io/n8nio/n8n:latest
 # moby/buildkit:buildx-stable-1
 redis:8.0.3
 wechaty/wechaty:latest
+rockchin/langbot:latest
 
 #支持私库
 # elasticsearch:8.15.1
