@@ -32,6 +32,7 @@ neo4j:ubi9
 dataease/sqlbot:latest
 wechaty/wechaty:0.65
 registry.fit2cloud.com/maxkb/maxkb
+timescale/timescaledb:latest-pg15
 
 #支持私库
 # elasticsearch:8.15.1
