@@ -34,6 +34,15 @@ wechaty/wechaty:0.65
 registry.fit2cloud.com/maxkb/maxkb
 timescale/timescaledb:latest-pg15
 
+wechatopenai/weknora-ui:latest
+wechatopenai/weknora-app:latest
+wechatopenai/weknora-docreader:latest
+paradedb/paradedb:v0.18.9-pg17
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+jaegertracing/all-in-one:1.76.0
+neo4j:2025.10.1
+qdrant/qdrant:v1.16.2
+
 #支持私库
 # elasticsearch:8.15.1
 #支持指定架构
