@@ -52,6 +52,9 @@ paddlex:latest
 mineru-vllm:latest
 mineru-vllm:latest
 
+pgvector/pgvector:pg17
+supersonicbi/supersonic:latest
+
 #支持私库
 # elasticsearch:8.15.1
 #支持指定架构
