@@ -52,8 +52,10 @@
 # mineru-vllm:latest
 # mineru-vllm:latest
 
-pgvector/pgvector:pg17
-supersonicbi/supersonic:latest
+# pgvector/pgvector:pg17
+# supersonicbi/supersonic:latest
+
+ollama/ollama
 
 #支持私库
 # elasticsearch:8.15.1
