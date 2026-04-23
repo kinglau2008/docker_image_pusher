@@ -56,7 +56,8 @@
 # supersonicbi/supersonic:latest
 
 # ollama/ollama
-moby/buildkit:buildx-stable-1
+# moby/buildkit:buildx-stable-1
+moby/buildkit:latest
 
 #支持私库
 # elasticsearch:8.15.1
