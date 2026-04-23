@@ -55,7 +55,8 @@
 # pgvector/pgvector:pg17
 # supersonicbi/supersonic:latest
 
-ollama/ollama
+# ollama/ollama
+moby/buildkit:buildx-stable-1
 
 #支持私库
 # elasticsearch:8.15.1
