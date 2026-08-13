@@ -64,4 +64,6 @@ moby/buildkit:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist 
 
-mysql:8.0.30
+#mysql:8.0.30 
+nacos/nacos-server:v3.2.3
+
